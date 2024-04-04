@@ -223,7 +223,7 @@ Result
 In summary, the query provides an overview of the product categories for which the average revenue is above the overall average revenue across all categories.
 
 
-### Bussiness Objective(15): Find the average and total revenue by each subcategory for the categories which are among top 5 categories in terms of quantity sold?
+### Bussiness Objective: Find the average and total revenue by each subcategory for the categories which are among top 5 categories in terms of quantity sold?
 
 Bussiness solution:
 
