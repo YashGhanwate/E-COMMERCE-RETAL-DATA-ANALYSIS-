@@ -9,7 +9,7 @@ Welcome to the E-Commerce Retail Data Analysis repository! This repository conta
 
 
 
-Data Sources:
+### Data Sources:
 The dataset used for analysis consists of three main tables:
 
 Customers: Contains information about customers, preferences, and other relevant details.
@@ -20,7 +20,7 @@ Transactions: Stores information about sales transactions, including customer ID
 
 
 
-DATA PREPARATION AND UNDERSTANDING:
+### DATA PREPARATION AND UNDERSTANDING:
 
  What is the total number of rows in each of the 3 tables in the database?
 
